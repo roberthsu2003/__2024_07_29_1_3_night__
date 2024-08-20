@@ -2,6 +2,7 @@
 import random
 import pyinputplus as pyip
 
+
 def play_game():
     min = 1
     max = 100
