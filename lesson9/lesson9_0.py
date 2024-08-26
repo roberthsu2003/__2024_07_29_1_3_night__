@@ -1,4 +1,4 @@
-from widget import tools
+from widget.tools import MyClass
 
 while True:
     try:
@@ -6,7 +6,7 @@ while True:
         height = float(input('請輸入身高（cm）: '))
         weight = float(input('請輸入體重（kg）: '))
         bmi = weight / ((height * 0.01) ** 2)
-        grade = tools.get_status_message(bmi)
+        grade = MyClass.get_status_message(bmi)
         print(f"{name} 的 BMI 為 {bmi:.2f}, 為 {grade}")
     except ValueError:
         print("格式錯誤，請重新輸入數據")
