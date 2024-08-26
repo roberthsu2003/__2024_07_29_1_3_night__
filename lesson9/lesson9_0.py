@@ -1,4 +1,4 @@
-import tools
+from widget import tools
 
 while True:
     try:
