@@ -1,9 +1,9 @@
 {
  "cwaopendata": {
   "@xmlns": "urn:cwa:gov:tw:cwacommon:0.1",
-  "identifier": "7ed0cdb1-a37d-4486-8ecc-e537650372da",
+  "identifier": "9426f11e-94a5-4ed9-a4d6-8110058c55b7",
   "sender": "od@cwa.gov.tw",
-  "sent": "2024-08-28T19:02:20+08:00",
+  "sent": "2024-08-28T19:19:20+08:00",
   "status": "Actual",
   "msgType": "Issue",
   "dataid": "O-A0091-001",
@@ -14,7 +14,7 @@
      "StationName": "基隆",
      "StationId": "466940",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -41,7 +41,7 @@
      "StationName": "淡水",
      "StationId": "466900",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -68,7 +68,7 @@
      "StationName": "新北",
      "StationId": "466881",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -95,7 +95,7 @@
      "StationName": "陽明山",
      "StationId": "466930",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -122,7 +122,7 @@
      "StationName": "鞍部",
      "StationId": "466910",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -149,7 +149,7 @@
      "StationName": "新竹",
      "StationId": "467571",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -176,7 +176,7 @@
      "StationName": "臺中",
      "StationId": "467490",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -203,7 +203,7 @@
      "StationName": "澎湖",
      "StationId": "467350",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -230,7 +230,7 @@
      "StationName": "日月潭",
      "StationId": "467650",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -257,7 +257,7 @@
      "StationName": "阿里山",
      "StationId": "467530",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -284,7 +284,7 @@
      "StationName": "玉山",
      "StationId": "467550",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -311,7 +311,7 @@
      "StationName": "嘉義",
      "StationId": "467480",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -338,7 +338,7 @@
      "StationName": "臺南",
      "StationId": "467410",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -365,7 +365,7 @@
      "StationName": "高雄",
      "StationId": "467441",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -392,7 +392,7 @@
      "StationName": "恆春",
      "StationId": "467590",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -419,7 +419,7 @@
      "StationName": "宜蘭",
      "StationId": "467080",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -446,7 +446,7 @@
      "StationName": "花蓮",
      "StationId": "466990",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -473,7 +473,7 @@
      "StationName": "成功",
      "StationId": "467610",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -500,7 +500,7 @@
      "StationName": "臺東",
      "StationId": "467660",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -527,7 +527,7 @@
      "StationName": "大武",
      "StationId": "467540",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -554,7 +554,7 @@
      "StationName": "蘭嶼",
      "StationId": "467620",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -581,7 +581,7 @@
      "StationName": "彭佳嶼",
      "StationId": "466950",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -608,7 +608,7 @@
      "StationName": "東吉島",
      "StationId": "467300",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -635,7 +635,7 @@
      "StationName": "南沙島",
      "StationId": "469020",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -662,7 +662,7 @@
      "StationName": "東沙島",
      "StationId": "468100",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -682,14 +682,14 @@
       "StationAltitude": "4.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.13"
+      "SolarRadiation": "25.74"
      }
     },
     {
      "StationName": "永康",
      "StationId": "467420",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -716,7 +716,7 @@
      "StationName": "臺北",
      "StationId": "466920",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -743,7 +743,7 @@
      "StationName": "金門",
      "StationId": "467110",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -770,7 +770,7 @@
      "StationName": "馬祖",
      "StationId": "467990",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -797,7 +797,7 @@
      "StationName": "新屋",
      "StationId": "467050",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -824,7 +824,7 @@
      "StationName": "田中",
      "StationId": "467270",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -851,7 +851,7 @@
      "StationName": "後龍",
      "StationId": "467280",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -878,7 +878,7 @@
      "StationName": "萬大發電廠",
      "StationId": "42HA10",
      "ObsTime": {
-      "DateTime": "2024-08-28T18:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
