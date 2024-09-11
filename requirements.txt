@@ -4,3 +4,4 @@ pydantic
 matplotlib
 numpy
 pandas
+openpyxl
